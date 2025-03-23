@@ -161,6 +161,7 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/5.1/howto/static-files/
 
 STATIC_URL = 'static/'
+STATIC_ROOT = BASE_DIR / "static"
 
 # Default primary key field type
 # https://docs.djangoproject.com/en/5.1/ref/settings/#default-auto-field
@@ -170,7 +171,7 @@ AUTH_USER_MODEL = 'users.CustomUser'
 
 
 # Configuration CORS
-CORS_ALLOW_ALL_ORIGINS = True  # Autoriser toutes les origines (à désactiver en prod)
+CORS_ALLOW_ALL_ORIGINS = False  # Autoriser toutes les origines (à désactiver en prod)
 
 # Ou, si tu veux autoriser seulement certains domaines :
 CORS_ALLOWED_ORIGINS = [

@@ -2169,7 +2169,7 @@
         "kind": 5,
         "importPath": "wari-main.src.wari.settings",
         "description": "wari-main.src.wari.settings",
-        "peekOfCode": "LANGUAGE_CODE = 'en-us'\nTIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.1/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.1/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "peekOfCode": "LANGUAGE_CODE = 'en-us'\nTIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.1/howto/static-files/\nSTATIC_URL = 'static/'\nSTATIC_ROOT = BASE_DIR / \"static\"\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.1/ref/settings/#default-auto-field",
         "detail": "wari-main.src.wari.settings",
         "documentation": {}
     },
@@ -2178,7 +2178,7 @@
         "kind": 5,
         "importPath": "wari-main.src.wari.settings",
         "description": "wari-main.src.wari.settings",
-        "peekOfCode": "TIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.1/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.1/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nAUTH_USER_MODEL = 'users.CustomUser'",
+        "peekOfCode": "TIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.1/howto/static-files/\nSTATIC_URL = 'static/'\nSTATIC_ROOT = BASE_DIR / \"static\"\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.1/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
         "detail": "wari-main.src.wari.settings",
         "documentation": {}
     },
@@ -2187,7 +2187,7 @@
         "kind": 5,
         "importPath": "wari-main.src.wari.settings",
         "description": "wari-main.src.wari.settings",
-        "peekOfCode": "USE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.1/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.1/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nAUTH_USER_MODEL = 'users.CustomUser'\n# Configuration CORS",
+        "peekOfCode": "USE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.1/howto/static-files/\nSTATIC_URL = 'static/'\nSTATIC_ROOT = BASE_DIR / \"static\"\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.1/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nAUTH_USER_MODEL = 'users.CustomUser'",
         "detail": "wari-main.src.wari.settings",
         "documentation": {}
     },
@@ -2196,7 +2196,7 @@
         "kind": 5,
         "importPath": "wari-main.src.wari.settings",
         "description": "wari-main.src.wari.settings",
-        "peekOfCode": "USE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.1/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.1/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nAUTH_USER_MODEL = 'users.CustomUser'\n# Configuration CORS\nCORS_ALLOW_ALL_ORIGINS = True  # Autoriser toutes les origines (à désactiver en prod)",
+        "peekOfCode": "USE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.1/howto/static-files/\nSTATIC_URL = 'static/'\nSTATIC_ROOT = BASE_DIR / \"static\"\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.1/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nAUTH_USER_MODEL = 'users.CustomUser'\n# Configuration CORS",
         "detail": "wari-main.src.wari.settings",
         "documentation": {}
     },
@@ -2205,7 +2205,16 @@
         "kind": 5,
         "importPath": "wari-main.src.wari.settings",
         "description": "wari-main.src.wari.settings",
-        "peekOfCode": "STATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.1/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nAUTH_USER_MODEL = 'users.CustomUser'\n# Configuration CORS\nCORS_ALLOW_ALL_ORIGINS = True  # Autoriser toutes les origines (à désactiver en prod)\n# Ou, si tu veux autoriser seulement certains domaines :\nCORS_ALLOWED_ORIGINS = [\n    \"http://localhost:3000\",  # React en local",
+        "peekOfCode": "STATIC_URL = 'static/'\nSTATIC_ROOT = BASE_DIR / \"static\"\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.1/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nAUTH_USER_MODEL = 'users.CustomUser'\n# Configuration CORS\nCORS_ALLOW_ALL_ORIGINS = False  # Autoriser toutes les origines (à désactiver en prod)\n# Ou, si tu veux autoriser seulement certains domaines :\nCORS_ALLOWED_ORIGINS = [",
+        "detail": "wari-main.src.wari.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_ROOT",
+        "kind": 5,
+        "importPath": "wari-main.src.wari.settings",
+        "description": "wari-main.src.wari.settings",
+        "peekOfCode": "STATIC_ROOT = BASE_DIR / \"static\"\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.1/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nAUTH_USER_MODEL = 'users.CustomUser'\n# Configuration CORS\nCORS_ALLOW_ALL_ORIGINS = False  # Autoriser toutes les origines (à désactiver en prod)\n# Ou, si tu veux autoriser seulement certains domaines :\nCORS_ALLOWED_ORIGINS = [\n    \"http://localhost:3000\",  # React en local",
         "detail": "wari-main.src.wari.settings",
         "documentation": {}
     },
@@ -2214,7 +2223,7 @@
         "kind": 5,
         "importPath": "wari-main.src.wari.settings",
         "description": "wari-main.src.wari.settings",
-        "peekOfCode": "DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nAUTH_USER_MODEL = 'users.CustomUser'\n# Configuration CORS\nCORS_ALLOW_ALL_ORIGINS = True  # Autoriser toutes les origines (à désactiver en prod)\n# Ou, si tu veux autoriser seulement certains domaines :\nCORS_ALLOWED_ORIGINS = [\n    \"http://localhost:3000\",  # React en local\n    \"http://127.0.0.1:3000\",\n]",
+        "peekOfCode": "DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nAUTH_USER_MODEL = 'users.CustomUser'\n# Configuration CORS\nCORS_ALLOW_ALL_ORIGINS = False  # Autoriser toutes les origines (à désactiver en prod)\n# Ou, si tu veux autoriser seulement certains domaines :\nCORS_ALLOWED_ORIGINS = [\n    \"http://localhost:3000\",  # React en local\n    \"http://127.0.0.1:3000\",\n]",
         "detail": "wari-main.src.wari.settings",
         "documentation": {}
     },
@@ -2223,7 +2232,7 @@
         "kind": 5,
         "importPath": "wari-main.src.wari.settings",
         "description": "wari-main.src.wari.settings",
-        "peekOfCode": "AUTH_USER_MODEL = 'users.CustomUser'\n# Configuration CORS\nCORS_ALLOW_ALL_ORIGINS = True  # Autoriser toutes les origines (à désactiver en prod)\n# Ou, si tu veux autoriser seulement certains domaines :\nCORS_ALLOWED_ORIGINS = [\n    \"http://localhost:3000\",  # React en local\n    \"http://127.0.0.1:3000\",\n]",
+        "peekOfCode": "AUTH_USER_MODEL = 'users.CustomUser'\n# Configuration CORS\nCORS_ALLOW_ALL_ORIGINS = False  # Autoriser toutes les origines (à désactiver en prod)\n# Ou, si tu veux autoriser seulement certains domaines :\nCORS_ALLOWED_ORIGINS = [\n    \"http://localhost:3000\",  # React en local\n    \"http://127.0.0.1:3000\",\n]",
         "detail": "wari-main.src.wari.settings",
         "documentation": {}
     },
@@ -2232,7 +2241,7 @@
         "kind": 5,
         "importPath": "wari-main.src.wari.settings",
         "description": "wari-main.src.wari.settings",
-        "peekOfCode": "CORS_ALLOW_ALL_ORIGINS = True  # Autoriser toutes les origines (à désactiver en prod)\n# Ou, si tu veux autoriser seulement certains domaines :\nCORS_ALLOWED_ORIGINS = [\n    \"http://localhost:3000\",  # React en local\n    \"http://127.0.0.1:3000\",\n]",
+        "peekOfCode": "CORS_ALLOW_ALL_ORIGINS = False  # Autoriser toutes les origines (à désactiver en prod)\n# Ou, si tu veux autoriser seulement certains domaines :\nCORS_ALLOWED_ORIGINS = [\n    \"http://localhost:3000\",  # React en local\n    \"http://127.0.0.1:3000\",\n]",
         "detail": "wari-main.src.wari.settings",
         "documentation": {}
     },
