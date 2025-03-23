@@ -2025,7 +2025,7 @@
         "kind": 5,
         "importPath": "wari-main.src.wari.settings",
         "description": "wari-main.src.wari.settings",
-        "peekOfCode": "BASE_DIR = Path(__file__).resolve().parent.parent\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/5.1/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = 'django-insecure-8)$zgymndn)k$9&i6rqracqz1)fo37(i0hn7266&p7dar((u%l'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [",
+        "peekOfCode": "BASE_DIR = Path(__file__).resolve().parent.parent\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/5.1/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = 'django-insecure-8)$zgymndn)k$9&i6rqracqz1)fo37(i0hn7266&p7dar((u%l'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = False\nALLOWED_HOSTS = ['93.127.203.229']\n# Application definition\nINSTALLED_APPS = [",
         "detail": "wari-main.src.wari.settings",
         "documentation": {}
     },
@@ -2034,7 +2034,7 @@
         "kind": 5,
         "importPath": "wari-main.src.wari.settings",
         "description": "wari-main.src.wari.settings",
-        "peekOfCode": "SECRET_KEY = 'django-insecure-8)$zgymndn)k$9&i6rqracqz1)fo37(i0hn7266&p7dar((u%l'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'corsheaders',  # Ajout de django-cors-headers\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',",
+        "peekOfCode": "SECRET_KEY = 'django-insecure-8)$zgymndn)k$9&i6rqracqz1)fo37(i0hn7266&p7dar((u%l'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = False\nALLOWED_HOSTS = ['93.127.203.229']\n# Application definition\nINSTALLED_APPS = [\n    'corsheaders',  # Ajout de django-cors-headers\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',",
         "detail": "wari-main.src.wari.settings",
         "documentation": {}
     },
@@ -2043,7 +2043,7 @@
         "kind": 5,
         "importPath": "wari-main.src.wari.settings",
         "description": "wari-main.src.wari.settings",
-        "peekOfCode": "DEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'corsheaders',  # Ajout de django-cors-headers\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',",
+        "peekOfCode": "DEBUG = False\nALLOWED_HOSTS = ['93.127.203.229']\n# Application definition\nINSTALLED_APPS = [\n    'corsheaders',  # Ajout de django-cors-headers\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',",
         "detail": "wari-main.src.wari.settings",
         "documentation": {}
     },
@@ -2052,7 +2052,7 @@
         "kind": 5,
         "importPath": "wari-main.src.wari.settings",
         "description": "wari-main.src.wari.settings",
-        "peekOfCode": "ALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'corsheaders',  # Ajout de django-cors-headers\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',",
+        "peekOfCode": "ALLOWED_HOSTS = ['93.127.203.229']\n# Application definition\nINSTALLED_APPS = [\n    'corsheaders',  # Ajout de django-cors-headers\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',",
         "detail": "wari-main.src.wari.settings",
         "documentation": {}
     },
