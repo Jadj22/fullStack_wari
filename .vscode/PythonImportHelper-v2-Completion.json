@@ -1,0 +1,2320 @@
+[
+    {
+        "label": "django.db.models.deletion",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.db.models.deletion",
+        "description": "django.db.models.deletion",
+        "detail": "django.db.models.deletion",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "transaction",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "transaction",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "transaction",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "transaction",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "gettext_lazy",
+        "importPath": "django.utils.translation",
+        "description": "django.utils.translation",
+        "isExtraImport": true,
+        "detail": "django.utils.translation",
+        "documentation": {}
+    },
+    {
+        "label": "gettext_lazy",
+        "importPath": "django.utils.translation",
+        "description": "django.utils.translation",
+        "isExtraImport": true,
+        "detail": "django.utils.translation",
+        "documentation": {}
+    },
+    {
+        "label": "gettext_lazy",
+        "importPath": "django.utils.translation",
+        "description": "django.utils.translation",
+        "isExtraImport": true,
+        "detail": "django.utils.translation",
+        "documentation": {}
+    },
+    {
+        "label": "gettext_lazy",
+        "importPath": "django.utils.translation",
+        "description": "django.utils.translation",
+        "isExtraImport": true,
+        "detail": "django.utils.translation",
+        "documentation": {}
+    },
+    {
+        "label": "gettext_lazy",
+        "importPath": "django.utils.translation",
+        "description": "django.utils.translation",
+        "isExtraImport": true,
+        "detail": "django.utils.translation",
+        "documentation": {}
+    },
+    {
+        "label": "Count",
+        "importPath": "django.db.models",
+        "description": "django.db.models",
+        "isExtraImport": true,
+        "detail": "django.db.models",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "slugify",
+        "importPath": "django.utils.text",
+        "description": "django.utils.text",
+        "isExtraImport": true,
+        "detail": "django.utils.text",
+        "documentation": {}
+    },
+    {
+        "label": "ValidationError",
+        "importPath": "django.core.exceptions",
+        "description": "django.core.exceptions",
+        "isExtraImport": true,
+        "detail": "django.core.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "ValidationError",
+        "importPath": "django.core.exceptions",
+        "description": "django.core.exceptions",
+        "isExtraImport": true,
+        "detail": "django.core.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "ValidationError",
+        "importPath": "django.core.exceptions",
+        "description": "django.core.exceptions",
+        "isExtraImport": true,
+        "detail": "django.core.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "ValidationError",
+        "importPath": "django.core.exceptions",
+        "description": "django.core.exceptions",
+        "isExtraImport": true,
+        "detail": "django.core.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "ValidationError",
+        "importPath": "django.core.exceptions",
+        "description": "django.core.exceptions",
+        "isExtraImport": true,
+        "detail": "django.core.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "serializers",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "viewsets",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "serializers",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "viewsets",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "serializers",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "serializers",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "viewsets",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "serializers",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "viewsets",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "serializers",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "viewsets",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "DefaultRouter",
+        "importPath": "rest_framework.routers",
+        "description": "rest_framework.routers",
+        "isExtraImport": true,
+        "detail": "rest_framework.routers",
+        "documentation": {}
+    },
+    {
+        "label": "DefaultRouter",
+        "importPath": "rest_framework.routers",
+        "description": "rest_framework.routers",
+        "isExtraImport": true,
+        "detail": "rest_framework.routers",
+        "documentation": {}
+    },
+    {
+        "label": "DefaultRouter",
+        "importPath": "rest_framework.routers",
+        "description": "rest_framework.routers",
+        "isExtraImport": true,
+        "detail": "rest_framework.routers",
+        "documentation": {}
+    },
+    {
+        "label": "DefaultRouter",
+        "importPath": "rest_framework.routers",
+        "description": "rest_framework.routers",
+        "isExtraImport": true,
+        "detail": "rest_framework.routers",
+        "documentation": {}
+    },
+    {
+        "label": "DefaultRouter",
+        "importPath": "rest_framework.routers",
+        "description": "rest_framework.routers",
+        "isExtraImport": true,
+        "detail": "rest_framework.routers",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "Response",
+        "importPath": "rest_framework.response",
+        "description": "rest_framework.response",
+        "isExtraImport": true,
+        "detail": "rest_framework.response",
+        "documentation": {}
+    },
+    {
+        "label": "Response",
+        "importPath": "rest_framework.response",
+        "description": "rest_framework.response",
+        "isExtraImport": true,
+        "detail": "rest_framework.response",
+        "documentation": {}
+    },
+    {
+        "label": "Response",
+        "importPath": "rest_framework.response",
+        "description": "rest_framework.response",
+        "isExtraImport": true,
+        "detail": "rest_framework.response",
+        "documentation": {}
+    },
+    {
+        "label": "Response",
+        "importPath": "rest_framework.response",
+        "description": "rest_framework.response",
+        "isExtraImport": true,
+        "detail": "rest_framework.response",
+        "documentation": {}
+    },
+    {
+        "label": "Response",
+        "importPath": "rest_framework.response",
+        "description": "rest_framework.response",
+        "isExtraImport": true,
+        "detail": "rest_framework.response",
+        "documentation": {}
+    },
+    {
+        "label": "PageNumberPagination",
+        "importPath": "rest_framework.pagination",
+        "description": "rest_framework.pagination",
+        "isExtraImport": true,
+        "detail": "rest_framework.pagination",
+        "documentation": {}
+    },
+    {
+        "label": "PageNumberPagination",
+        "importPath": "rest_framework.pagination",
+        "description": "rest_framework.pagination",
+        "isExtraImport": true,
+        "detail": "rest_framework.pagination",
+        "documentation": {}
+    },
+    {
+        "label": "PageNumberPagination",
+        "importPath": "rest_framework.pagination",
+        "description": "rest_framework.pagination",
+        "isExtraImport": true,
+        "detail": "rest_framework.pagination",
+        "documentation": {}
+    },
+    {
+        "label": "PageNumberPagination",
+        "importPath": "rest_framework.pagination",
+        "description": "rest_framework.pagination",
+        "isExtraImport": true,
+        "detail": "rest_framework.pagination",
+        "documentation": {}
+    },
+    {
+        "label": "DjangoFilterBackend",
+        "importPath": "django_filters.rest_framework",
+        "description": "django_filters.rest_framework",
+        "isExtraImport": true,
+        "detail": "django_filters.rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "DjangoFilterBackend",
+        "importPath": "django_filters.rest_framework",
+        "description": "django_filters.rest_framework",
+        "isExtraImport": true,
+        "detail": "django_filters.rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "DjangoFilterBackend",
+        "importPath": "django_filters.rest_framework",
+        "description": "django_filters.rest_framework",
+        "isExtraImport": true,
+        "detail": "django_filters.rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "DjangoFilterBackend",
+        "importPath": "django_filters.rest_framework",
+        "description": "django_filters.rest_framework",
+        "isExtraImport": true,
+        "detail": "django_filters.rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "DjangoFilterBackend",
+        "importPath": "django_filters.rest_framework",
+        "description": "django_filters.rest_framework",
+        "isExtraImport": true,
+        "detail": "django_filters.rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "BasePermission",
+        "importPath": "rest_framework.permissions",
+        "description": "rest_framework.permissions",
+        "isExtraImport": true,
+        "detail": "rest_framework.permissions",
+        "documentation": {}
+    },
+    {
+        "label": "IsAdminUser",
+        "importPath": "rest_framework.permissions",
+        "description": "rest_framework.permissions",
+        "isExtraImport": true,
+        "detail": "rest_framework.permissions",
+        "documentation": {}
+    },
+    {
+        "label": "IsAuthenticatedOrReadOnly",
+        "importPath": "rest_framework.permissions",
+        "description": "rest_framework.permissions",
+        "isExtraImport": true,
+        "detail": "rest_framework.permissions",
+        "documentation": {}
+    },
+    {
+        "label": "BasePermission",
+        "importPath": "rest_framework.permissions",
+        "description": "rest_framework.permissions",
+        "isExtraImport": true,
+        "detail": "rest_framework.permissions",
+        "documentation": {}
+    },
+    {
+        "label": "IsAdminUser",
+        "importPath": "rest_framework.permissions",
+        "description": "rest_framework.permissions",
+        "isExtraImport": true,
+        "detail": "rest_framework.permissions",
+        "documentation": {}
+    },
+    {
+        "label": "IsAuthenticatedOrReadOnly",
+        "importPath": "rest_framework.permissions",
+        "description": "rest_framework.permissions",
+        "isExtraImport": true,
+        "detail": "rest_framework.permissions",
+        "documentation": {}
+    },
+    {
+        "label": "IsAdminUser",
+        "importPath": "rest_framework.permissions",
+        "description": "rest_framework.permissions",
+        "isExtraImport": true,
+        "detail": "rest_framework.permissions",
+        "documentation": {}
+    },
+    {
+        "label": "IsAuthenticatedOrReadOnly",
+        "importPath": "rest_framework.permissions",
+        "description": "rest_framework.permissions",
+        "isExtraImport": true,
+        "detail": "rest_framework.permissions",
+        "documentation": {}
+    },
+    {
+        "label": "IsAdminUser",
+        "importPath": "rest_framework.permissions",
+        "description": "rest_framework.permissions",
+        "isExtraImport": true,
+        "detail": "rest_framework.permissions",
+        "documentation": {}
+    },
+    {
+        "label": "IsAuthenticated",
+        "importPath": "rest_framework.permissions",
+        "description": "rest_framework.permissions",
+        "isExtraImport": true,
+        "detail": "rest_framework.permissions",
+        "documentation": {}
+    },
+    {
+        "label": "SearchFilter",
+        "importPath": "rest_framework.filters",
+        "description": "rest_framework.filters",
+        "isExtraImport": true,
+        "detail": "rest_framework.filters",
+        "documentation": {}
+    },
+    {
+        "label": "SearchFilter",
+        "importPath": "rest_framework.filters",
+        "description": "rest_framework.filters",
+        "isExtraImport": true,
+        "detail": "rest_framework.filters",
+        "documentation": {}
+    },
+    {
+        "label": "SearchFilter",
+        "importPath": "rest_framework.filters",
+        "description": "rest_framework.filters",
+        "isExtraImport": true,
+        "detail": "rest_framework.filters",
+        "documentation": {}
+    },
+    {
+        "label": "SearchFilter",
+        "importPath": "rest_framework.filters",
+        "description": "rest_framework.filters",
+        "isExtraImport": true,
+        "detail": "rest_framework.filters",
+        "documentation": {}
+    },
+    {
+        "label": "logging",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "logging",
+        "description": "logging",
+        "detail": "logging",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "timezone",
+        "importPath": "django.utils",
+        "description": "django.utils",
+        "isExtraImport": true,
+        "detail": "django.utils",
+        "documentation": {}
+    },
+    {
+        "label": "timezone",
+        "importPath": "django.utils",
+        "description": "django.utils",
+        "isExtraImport": true,
+        "detail": "django.utils",
+        "documentation": {}
+    },
+    {
+        "label": "timezone",
+        "importPath": "django.utils",
+        "description": "django.utils",
+        "isExtraImport": true,
+        "detail": "django.utils",
+        "documentation": {}
+    },
+    {
+        "label": "timezone",
+        "importPath": "django.utils",
+        "description": "django.utils",
+        "isExtraImport": true,
+        "detail": "django.utils",
+        "documentation": {}
+    },
+    {
+        "label": "timezone",
+        "importPath": "django.utils",
+        "description": "django.utils",
+        "isExtraImport": true,
+        "detail": "django.utils",
+        "documentation": {}
+    },
+    {
+        "label": "timezone",
+        "importPath": "django.utils",
+        "description": "django.utils",
+        "isExtraImport": true,
+        "detail": "django.utils",
+        "documentation": {}
+    },
+    {
+        "label": "timezone",
+        "importPath": "django.utils",
+        "description": "django.utils",
+        "isExtraImport": true,
+        "detail": "django.utils",
+        "documentation": {}
+    },
+    {
+        "label": "CustomUser",
+        "importPath": "users.models",
+        "description": "users.models",
+        "isExtraImport": true,
+        "detail": "users.models",
+        "documentation": {}
+    },
+    {
+        "label": "CustomUser",
+        "importPath": "users.models",
+        "description": "users.models",
+        "isExtraImport": true,
+        "detail": "users.models",
+        "documentation": {}
+    },
+    {
+        "label": "CustomUser",
+        "importPath": "users.models",
+        "description": "users.models",
+        "isExtraImport": true,
+        "detail": "users.models",
+        "documentation": {}
+    },
+    {
+        "label": "Game",
+        "importPath": "games.models",
+        "description": "games.models",
+        "isExtraImport": true,
+        "detail": "games.models",
+        "documentation": {}
+    },
+    {
+        "label": "Game",
+        "importPath": "games.models",
+        "description": "games.models",
+        "isExtraImport": true,
+        "detail": "games.models",
+        "documentation": {}
+    },
+    {
+        "label": "Game",
+        "importPath": "games.models",
+        "description": "games.models",
+        "isExtraImport": true,
+        "detail": "games.models",
+        "documentation": {}
+    },
+    {
+        "label": "Game",
+        "importPath": "games.models",
+        "description": "games.models",
+        "isExtraImport": true,
+        "detail": "games.models",
+        "documentation": {}
+    },
+    {
+        "label": "Game",
+        "importPath": "games.models",
+        "description": "games.models",
+        "isExtraImport": true,
+        "detail": "games.models",
+        "documentation": {}
+    },
+    {
+        "label": "Country",
+        "importPath": "games.models",
+        "description": "games.models",
+        "isExtraImport": true,
+        "detail": "games.models",
+        "documentation": {}
+    },
+    {
+        "label": "GameType",
+        "importPath": "games.models",
+        "description": "games.models",
+        "isExtraImport": true,
+        "detail": "games.models",
+        "documentation": {}
+    },
+    {
+        "label": "django.contrib.auth.models",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "AbstractUser",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "django.contrib.auth.validators",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.contrib.auth.validators",
+        "description": "django.contrib.auth.validators",
+        "detail": "django.contrib.auth.validators",
+        "documentation": {}
+    },
+    {
+        "label": "django.utils.timezone",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.utils.timezone",
+        "description": "django.utils.timezone",
+        "detail": "django.utils.timezone",
+        "documentation": {}
+    },
+    {
+        "label": "UserAdmin",
+        "importPath": "django.contrib.auth.admin",
+        "description": "django.contrib.auth.admin",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.admin",
+        "documentation": {}
+    },
+    {
+        "label": "action",
+        "importPath": "rest_framework.decorators",
+        "description": "rest_framework.decorators",
+        "isExtraImport": true,
+        "detail": "rest_framework.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "get_asgi_application",
+        "importPath": "django.core.asgi",
+        "description": "django.core.asgi",
+        "isExtraImport": true,
+        "detail": "django.core.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "config",
+        "importPath": "decouple",
+        "description": "decouple",
+        "isExtraImport": true,
+        "detail": "decouple",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "timedelta",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timedelta",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "SpectacularAPIView",
+        "importPath": "drf_spectacular.views",
+        "description": "drf_spectacular.views",
+        "isExtraImport": true,
+        "detail": "drf_spectacular.views",
+        "documentation": {}
+    },
+    {
+        "label": "SpectacularSwaggerView",
+        "importPath": "drf_spectacular.views",
+        "description": "drf_spectacular.views",
+        "isExtraImport": true,
+        "detail": "drf_spectacular.views",
+        "documentation": {}
+    },
+    {
+        "label": "TokenObtainPairView",
+        "importPath": "rest_framework_simplejwt.views",
+        "description": "rest_framework_simplejwt.views",
+        "isExtraImport": true,
+        "detail": "rest_framework_simplejwt.views",
+        "documentation": {}
+    },
+    {
+        "label": "TokenRefreshView",
+        "importPath": "rest_framework_simplejwt.views",
+        "description": "rest_framework_simplejwt.views",
+        "isExtraImport": true,
+        "detail": "rest_framework_simplejwt.views",
+        "documentation": {}
+    },
+    {
+        "label": "get_wsgi_application",
+        "importPath": "django.core.wsgi",
+        "description": "django.core.wsgi",
+        "isExtraImport": true,
+        "detail": "django.core.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "django",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django",
+        "description": "django",
+        "detail": "django",
+        "documentation": {}
+    },
+    {
+        "label": "Prediction",
+        "importPath": "predictions.models",
+        "description": "predictions.models",
+        "isExtraImport": true,
+        "detail": "predictions.models",
+        "documentation": {}
+    },
+    {
+        "label": "Result",
+        "importPath": "results.models",
+        "description": "results.models",
+        "isExtraImport": true,
+        "detail": "results.models",
+        "documentation": {}
+    },
+    {
+        "label": "Program",
+        "importPath": "programmes.models",
+        "description": "programmes.models",
+        "isExtraImport": true,
+        "detail": "programmes.models",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "wari-main.src.games.migrations.0001_initial",
+        "description": "wari-main.src.games.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Country',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('name', models.CharField(help_text='Nom du pays (ex. : France)', max_length=100, unique=True, verbose_name='Nom')),",
+        "detail": "wari-main.src.games.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "wari-main.src.games.migrations.0002_game_description_alter_country_code_and_more",
+        "description": "wari-main.src.games.migrations.0002_game_description_alter_country_code_and_more",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('games', '0001_initial'),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='game',\n            name='description',\n            field=models.TextField(blank=True, null=True, verbose_name='Description'),\n        ),",
+        "detail": "wari-main.src.games.migrations.0002_game_description_alter_country_code_and_more",
+        "documentation": {}
+    },
+    {
+        "label": "GameInline",
+        "kind": 6,
+        "importPath": "wari-main.src.games.admin",
+        "description": "wari-main.src.games.admin",
+        "peekOfCode": "class GameInline(admin.TabularInline):\n    \"\"\"Permet d'éditer les jeux directement dans l'interface d'un pays.\"\"\"\n    model = Game\n    extra = 0  # Pas de lignes vides par défaut lors de l'ajout\n    fields = ['name', 'game_type', 'is_active']\n    show_change_link = True  # Lien vers le détail du jeu\n    def get_queryset(self, request):\n        # Optimisation : Précharger game_type pour éviter les requêtes N+1\n        return super().get_queryset(request).select_related('game_type')\n    def has_add_permission(self, request, obj=None):",
+        "detail": "wari-main.src.games.admin",
+        "documentation": {}
+    },
+    {
+        "label": "CountryAdmin",
+        "kind": 6,
+        "importPath": "wari-main.src.games.admin",
+        "description": "wari-main.src.games.admin",
+        "peekOfCode": "class CountryAdmin(admin.ModelAdmin):\n    \"\"\"Interface pour gérer les pays.\"\"\"\n    list_display = ['name', 'code', 'slug', 'game_count', 'created_at']\n    search_fields = ['name', 'code']\n    list_filter = ['created_at']\n    inlines = [GameInline]\n    list_per_page = 25\n    readonly_fields = ['slug', 'created_at']\n    fieldsets = (\n        (None, {",
+        "detail": "wari-main.src.games.admin",
+        "documentation": {}
+    },
+    {
+        "label": "GameTypeAdmin",
+        "kind": 6,
+        "importPath": "wari-main.src.games.admin",
+        "description": "wari-main.src.games.admin",
+        "peekOfCode": "class GameTypeAdmin(admin.ModelAdmin):\n    \"\"\"Interface pour gérer les types de jeux.\"\"\"\n    list_display = ['name', 'slug', 'game_count', 'created_at', 'updated_at']\n    search_fields = ['name']\n    list_filter = ['created_at', 'updated_at']\n    list_per_page = 25\n    readonly_fields = ['slug', 'created_at', 'updated_at']\n    fieldsets = (\n        (None, {\n            'fields': ('name', 'slug', 'description')",
+        "detail": "wari-main.src.games.admin",
+        "documentation": {}
+    },
+    {
+        "label": "GameAdmin",
+        "kind": 6,
+        "importPath": "wari-main.src.games.admin",
+        "description": "wari-main.src.games.admin",
+        "peekOfCode": "class GameAdmin(admin.ModelAdmin):\n    \"\"\"Interface pour gérer les jeux.\"\"\"\n    list_display = ['name', 'game_type', 'country', 'is_active', 'created_at', 'updated_at']\n    list_filter = ['game_type', 'country', 'is_active', 'created_at', 'updated_at']\n    search_fields = ['name', 'slug']\n    list_select_related = ['game_type', 'country']\n    list_per_page = 25\n    readonly_fields = ['slug', 'created_at', 'updated_at']\n    actions = ['activate', 'deactivate']\n    fieldsets = (",
+        "detail": "wari-main.src.games.admin",
+        "documentation": {}
+    },
+    {
+        "label": "GamesConfig",
+        "kind": 6,
+        "importPath": "wari-main.src.games.apps",
+        "description": "wari-main.src.games.apps",
+        "peekOfCode": "class GamesConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'games'",
+        "detail": "wari-main.src.games.apps",
+        "documentation": {}
+    },
+    {
+        "label": "Country",
+        "kind": 6,
+        "importPath": "wari-main.src.games.models",
+        "description": "wari-main.src.games.models",
+        "peekOfCode": "class Country(models.Model):\n    name = models.CharField(max_length=100, unique=True, verbose_name='Nom')\n    code = models.CharField(max_length=3, unique=True, verbose_name='Code ISO')\n    slug = models.SlugField(max_length=100, unique=True, blank=True)\n    created_at = models.DateTimeField(auto_now_add=True)\n    class Meta:\n        ordering = ['name']\n        verbose_name = 'Pays'\n        verbose_name_plural = 'Pays'\n    def __str__(self):",
+        "detail": "wari-main.src.games.models",
+        "documentation": {}
+    },
+    {
+        "label": "GameType",
+        "kind": 6,
+        "importPath": "wari-main.src.games.models",
+        "description": "wari-main.src.games.models",
+        "peekOfCode": "class GameType(models.Model):\n    name = models.CharField(max_length=50, unique=True, verbose_name='Nom du type')\n    slug = models.SlugField(max_length=50, unique=True, blank=True)\n    description = models.TextField(blank=True)\n    created_at = models.DateTimeField(auto_now_add=True)\n    updated_at = models.DateTimeField(auto_now=True)\n    class Meta:\n        ordering = ['name']\n        verbose_name = 'Type de jeu'\n        verbose_name_plural = 'Types de jeux'",
+        "detail": "wari-main.src.games.models",
+        "documentation": {}
+    },
+    {
+        "label": "Game",
+        "kind": 6,
+        "importPath": "wari-main.src.games.models",
+        "description": "wari-main.src.games.models",
+        "peekOfCode": "class Game(models.Model):\n    name = models.CharField(max_length=100, db_index=True, verbose_name='Nom')\n    slug = models.SlugField(max_length=100, unique=True, blank=True)\n    game_type = models.ForeignKey(GameType, on_delete=models.PROTECT, related_name='games')\n    country = models.ForeignKey(Country, on_delete=models.CASCADE, related_name='games')\n    created_at = models.DateTimeField(auto_now_add=True)\n    updated_at = models.DateTimeField(auto_now=True)\n    is_active = models.BooleanField(default=True)\n    description = models.TextField(blank=True, null=True, verbose_name='Description')\n    class Meta:",
+        "detail": "wari-main.src.games.models",
+        "documentation": {}
+    },
+    {
+        "label": "CountrySerializer",
+        "kind": 6,
+        "importPath": "wari-main.src.games.serializers",
+        "description": "wari-main.src.games.serializers",
+        "peekOfCode": "class CountrySerializer(serializers.ModelSerializer):\n    \"\"\"Sérialiseur pour les pays, inclut le nombre de jeux associés.\"\"\"\n    game_count = serializers.SerializerMethodField(read_only=True)\n    class Meta:\n        model = Country\n        fields = ['id', 'name', 'code', 'slug', 'game_count', 'created_at']\n        read_only_fields = ['slug', 'created_at']\n    def get_game_count(self, obj):\n        \"\"\"Calcule le nombre de jeux associés au pays.\"\"\"\n        # Note : Utiliser prefetch_related dans la vue pour optimiser",
+        "detail": "wari-main.src.games.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "GameTypeSerializer",
+        "kind": 6,
+        "importPath": "wari-main.src.games.serializers",
+        "description": "wari-main.src.games.serializers",
+        "peekOfCode": "class GameTypeSerializer(serializers.ModelSerializer):\n    \"\"\"Sérialiseur pour les types de jeux, inclut le nombre de jeux associés.\"\"\"\n    game_count = serializers.SerializerMethodField(read_only=True)\n    class Meta:\n        model = GameType\n        fields = ['id', 'name', 'slug', 'game_count', 'created_at', 'updated_at']\n        read_only_fields = ['slug', 'created_at', 'updated_at']\n    def get_game_count(self, obj):\n        \"\"\"Calcule le nombre de jeux associés au type.\"\"\"\n        # Note : Utiliser prefetch_related dans la vue pour optimiser",
+        "detail": "wari-main.src.games.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "GameSerializer",
+        "kind": 6,
+        "importPath": "wari-main.src.games.serializers",
+        "description": "wari-main.src.games.serializers",
+        "peekOfCode": "class GameSerializer(serializers.ModelSerializer):\n    \"\"\"Sérialiseur pour les jeux, inclut les relations avec pays et type de jeu.\"\"\"\n    country = CountrySerializer(read_only=True)\n    game_type = GameTypeSerializer(read_only=True)\n    # Champs pour l'entrée (écriture) des relations\n    country_id = serializers.PrimaryKeyRelatedField(\n        queryset=Country.objects.all(),\n        source='country',\n        write_only=True,\n        required=True",
+        "detail": "wari-main.src.games.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "admin_router",
+        "kind": 5,
+        "importPath": "wari-main.src.games.urls",
+        "description": "wari-main.src.games.urls",
+        "peekOfCode": "admin_router = DefaultRouter()\nadmin_router.register(r'countries', CountryViewSet, basename='admin-country')\nadmin_router.register(r'game-types', GameTypeViewSet, basename='admin-gametype')\nadmin_router.register(r'games', GameViewSet, basename='admin-game')\n# Routeur pour les endpoints client (lecture seule, données filtrées)\nclient_router = DefaultRouter()\nclient_router.register(r'games', ClientGameViewSet, basename='client-game')\n# URLs différenciées pour admin et client\nurlpatterns = [\n    path('', include(admin_router.urls)),  # /api/admin/games/",
+        "detail": "wari-main.src.games.urls",
+        "documentation": {}
+    },
+    {
+        "label": "client_router",
+        "kind": 5,
+        "importPath": "wari-main.src.games.urls",
+        "description": "wari-main.src.games.urls",
+        "peekOfCode": "client_router = DefaultRouter()\nclient_router.register(r'games', ClientGameViewSet, basename='client-game')\n# URLs différenciées pour admin et client\nurlpatterns = [\n    path('', include(admin_router.urls)),  # /api/admin/games/\n    path('', include(client_router.urls)),  # /api/client/games/\n]",
+        "detail": "wari-main.src.games.urls",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "wari-main.src.games.urls",
+        "description": "wari-main.src.games.urls",
+        "peekOfCode": "urlpatterns = [\n    path('', include(admin_router.urls)),  # /api/admin/games/\n    path('', include(client_router.urls)),  # /api/client/games/\n]",
+        "detail": "wari-main.src.games.urls",
+        "documentation": {}
+    },
+    {
+        "label": "StandardPagination",
+        "kind": 6,
+        "importPath": "wari-main.src.games.views",
+        "description": "wari-main.src.games.views",
+        "peekOfCode": "class StandardPagination(PageNumberPagination):\n    \"\"\"Pagination standard avec 20 éléments par page, configurable via paramètre URL.\"\"\"\n    page_size = 20\n    page_size_query_param = 'page_size'\n    max_page_size = 100\n# 2. Permission personnalisée\nclass IsAdminOrReadOnly(BasePermission):\n    \"\"\"\n    Permission personnalisée :\n    - Lecture seule pour tous les utilisateurs",
+        "detail": "wari-main.src.games.views",
+        "documentation": {}
+    },
+    {
+        "label": "IsAdminOrReadOnly",
+        "kind": 6,
+        "importPath": "wari-main.src.games.views",
+        "description": "wari-main.src.games.views",
+        "peekOfCode": "class IsAdminOrReadOnly(BasePermission):\n    \"\"\"\n    Permission personnalisée :\n    - Lecture seule pour tous les utilisateurs\n    - Écriture (POST, PUT, DELETE) réservée aux administrateurs\n    \"\"\"\n    def has_permission(self, request, view):\n        return request.method in [\"GET\", \"HEAD\", \"OPTIONS\"] or request.user.is_staff\n# 3. Base ViewSet pour factorisation\nclass BaseViewSet(viewsets.ModelViewSet):",
+        "detail": "wari-main.src.games.views",
+        "documentation": {}
+    },
+    {
+        "label": "BaseViewSet",
+        "kind": 6,
+        "importPath": "wari-main.src.games.views",
+        "description": "wari-main.src.games.views",
+        "peekOfCode": "class BaseViewSet(viewsets.ModelViewSet):\n    \"\"\"\n    ViewSet de base factorisant les configurations communes :\n    - Permissions : admin pour écriture, lecture pour tous\n    - Pagination : 20 éléments par page\n    - Filtres : DjangoFilterBackend et SearchFilter\n    \"\"\"\n    permission_classes = [IsAdminOrReadOnly]\n    pagination_class = StandardPagination\n    filter_backends = [DjangoFilterBackend, SearchFilter]",
+        "detail": "wari-main.src.games.views",
+        "documentation": {}
+    },
+    {
+        "label": "CountryViewSet",
+        "kind": 6,
+        "importPath": "wari-main.src.games.views",
+        "description": "wari-main.src.games.views",
+        "peekOfCode": "class CountryViewSet(BaseViewSet):\n    \"\"\"\n    Gestion des pays (CRUD complet pour admins, lecture pour tous).\n    - Optimisation avec prefetch_related et champs spécifiques via only()\n    - Filtres et recherche sur nom, code, slug\n    \"\"\"\n    queryset = Country.objects.all().prefetch_related('games').only('id', 'name', 'code', 'slug')\n    serializer_class = CountrySerializer\n    filterset_fields = ['name', 'code', 'slug']\n    search_fields = ['name', 'code']",
+        "detail": "wari-main.src.games.views",
+        "documentation": {}
+    },
+    {
+        "label": "GameTypeViewSet",
+        "kind": 6,
+        "importPath": "wari-main.src.games.views",
+        "description": "wari-main.src.games.views",
+        "peekOfCode": "class GameTypeViewSet(BaseViewSet):\n    \"\"\"\n    Gestion des types de jeux (CRUD complet pour admins, lecture pour tous).\n    - Optimisation avec prefetch_related et champs spécifiques via only()\n    - Filtres et recherche sur nom, slug\n    \"\"\"\n    queryset = GameType.objects.all().prefetch_related('games').only('id', 'name', 'slug')\n    serializer_class = GameTypeSerializer\n    filterset_fields = ['name', 'slug']\n    search_fields = ['name']",
+        "detail": "wari-main.src.games.views",
+        "documentation": {}
+    },
+    {
+        "label": "GameViewSet",
+        "kind": 6,
+        "importPath": "wari-main.src.games.views",
+        "description": "wari-main.src.games.views",
+        "peekOfCode": "class GameViewSet(BaseViewSet):\n    \"\"\"\n    Gestion des jeux (CRUD complet pour admins, lecture pour tous).\n    - Optimisation avec select_related et champs spécifiques via only()\n    - Filtres et recherche sur nom, description, pays, type, statut\n    \"\"\"\n    queryset = Game.objects.all().select_related('country', 'game_type').only(\n        'id', 'name', 'description', 'country', 'game_type', 'is_active'\n    )\n    serializer_class = GameSerializer",
+        "detail": "wari-main.src.games.views",
+        "documentation": {}
+    },
+    {
+        "label": "ClientGameViewSet",
+        "kind": 6,
+        "importPath": "wari-main.src.games.views",
+        "description": "wari-main.src.games.views",
+        "peekOfCode": "class ClientGameViewSet(viewsets.ReadOnlyModelViewSet):\n    \"\"\"\n    Affichage des jeux actifs pour les clients (lecture seule).\n    - Optimisation avec select_related et champs spécifiques via only()\n    - Filtres et recherche sur nom, description, pays, type\n    \"\"\"\n    queryset = Game.objects.filter(is_active=True).select_related('country', 'game_type').only(\n        'id', 'name', 'description', 'country', 'game_type'\n    )\n    serializer_class = GameSerializer",
+        "detail": "wari-main.src.games.views",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "wari-main.src.games.views",
+        "description": "wari-main.src.games.views",
+        "peekOfCode": "logger = logging.getLogger(__name__)\n# 1. Pagination standardisée\nclass StandardPagination(PageNumberPagination):\n    \"\"\"Pagination standard avec 20 éléments par page, configurable via paramètre URL.\"\"\"\n    page_size = 20\n    page_size_query_param = 'page_size'\n    max_page_size = 100\n# 2. Permission personnalisée\nclass IsAdminOrReadOnly(BasePermission):\n    \"\"\"",
+        "detail": "wari-main.src.games.views",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "wari-main.src.predictions.migrations.0001_initial",
+        "description": "wari-main.src.predictions.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Prediction',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('description', models.TextField(help_text='Détails du pronostic', verbose_name='Description')),",
+        "detail": "wari-main.src.predictions.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "wari-main.src.predictions.migrations.0002_initial",
+        "description": "wari-main.src.predictions.migrations.0002_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n        ('games', '0001_initial'),\n        ('predictions', '0001_initial'),\n        migrations.swappable_dependency(settings.AUTH_USER_MODEL),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='prediction',",
+        "detail": "wari-main.src.predictions.migrations.0002_initial",
+        "documentation": {}
+    },
+    {
+        "label": "PredictionAdmin",
+        "kind": 6,
+        "importPath": "wari-main.src.predictions.admin",
+        "description": "wari-main.src.predictions.admin",
+        "peekOfCode": "class PredictionAdmin(admin.ModelAdmin):\n    \"\"\"Interface pour gérer les pronostics.\"\"\"\n    list_display = ['game', 'predicted_at', 'is_published', 'author', 'updated_at', 'short_description']\n    list_filter = ['is_published', 'predicted_at', 'author', 'game__country']\n    search_fields = ['game__name', 'description']\n    date_hierarchy = 'predicted_at'\n    list_select_related = ['game', 'author']\n    list_per_page = 25\n    actions = ['publish', 'unpublish']\n    def short_description(self, obj):",
+        "detail": "wari-main.src.predictions.admin",
+        "documentation": {}
+    },
+    {
+        "label": "PredictionsConfig",
+        "kind": 6,
+        "importPath": "wari-main.src.predictions.apps",
+        "description": "wari-main.src.predictions.apps",
+        "peekOfCode": "class PredictionsConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'predictions'",
+        "detail": "wari-main.src.predictions.apps",
+        "documentation": {}
+    },
+    {
+        "label": "Prediction",
+        "kind": 6,
+        "importPath": "wari-main.src.predictions.models",
+        "description": "wari-main.src.predictions.models",
+        "peekOfCode": "class Prediction(models.Model):\n    game = models.ForeignKey(\n        Game,\n        on_delete=models.CASCADE,\n        related_name='predictions',\n        verbose_name='Jeu',\n        help_text='Le jeu auquel ce pronostic est associé'\n    )\n    description = models.TextField(\n        verbose_name='Description',",
+        "detail": "wari-main.src.predictions.models",
+        "documentation": {}
+    },
+    {
+        "label": "PredictionSerializer",
+        "kind": 6,
+        "importPath": "wari-main.src.predictions.serializers",
+        "description": "wari-main.src.predictions.serializers",
+        "peekOfCode": "class PredictionSerializer(serializers.ModelSerializer):\n    \"\"\"\n    Sérialiseur pour les pronostics :\n    - Inclut les relations avec jeu (slug) et auteur (username)\n    - Valide les champs modifiables (description)\n    - Champs en lecture seule protégés\n    \"\"\"\n    game = serializers.SlugRelatedField(\n        slug_field='slug',\n        queryset=Game.objects.all(),  # Permet l'écriture par slug",
+        "detail": "wari-main.src.predictions.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "admin_router",
+        "kind": 5,
+        "importPath": "wari-main.src.predictions.urls",
+        "description": "wari-main.src.predictions.urls",
+        "peekOfCode": "admin_router = DefaultRouter()\nadmin_router.register(r'predictions', PredictionViewSet, basename='admin-prediction')\n# Routeur pour les endpoints client (lecture seule)\nclient_router = DefaultRouter()\nclient_router.register(r'predictions', ClientPredictionViewSet, basename='client-prediction')\n# URLs différenciées pour admin et client\nurlpatterns = [\n    path('admin/', include(admin_router.urls)),  # /api/admin/predictions/\n    path('client/', include(client_router.urls)),  # /api/client/predictions/\n]",
+        "detail": "wari-main.src.predictions.urls",
+        "documentation": {}
+    },
+    {
+        "label": "client_router",
+        "kind": 5,
+        "importPath": "wari-main.src.predictions.urls",
+        "description": "wari-main.src.predictions.urls",
+        "peekOfCode": "client_router = DefaultRouter()\nclient_router.register(r'predictions', ClientPredictionViewSet, basename='client-prediction')\n# URLs différenciées pour admin et client\nurlpatterns = [\n    path('admin/', include(admin_router.urls)),  # /api/admin/predictions/\n    path('client/', include(client_router.urls)),  # /api/client/predictions/\n]",
+        "detail": "wari-main.src.predictions.urls",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "wari-main.src.predictions.urls",
+        "description": "wari-main.src.predictions.urls",
+        "peekOfCode": "urlpatterns = [\n    path('admin/', include(admin_router.urls)),  # /api/admin/predictions/\n    path('client/', include(client_router.urls)),  # /api/client/predictions/\n]",
+        "detail": "wari-main.src.predictions.urls",
+        "documentation": {}
+    },
+    {
+        "label": "StandardPagination",
+        "kind": 6,
+        "importPath": "wari-main.src.predictions.views",
+        "description": "wari-main.src.predictions.views",
+        "peekOfCode": "class StandardPagination(PageNumberPagination):\n    \"\"\"Pagination standard avec 20 éléments par page, configurable via paramètre URL.\"\"\"\n    page_size = 20\n    page_size_query_param = 'page_size'\n    max_page_size = 100\n# 2. Base ViewSet pour factorisation\nclass BasePredictionViewSet(viewsets.ModelViewSet):\n    \"\"\"\n    ViewSet de base pour les pronostics :\n    - Factorise pagination, filtres et gestion des erreurs",
+        "detail": "wari-main.src.predictions.views",
+        "documentation": {}
+    },
+    {
+        "label": "BasePredictionViewSet",
+        "kind": 6,
+        "importPath": "wari-main.src.predictions.views",
+        "description": "wari-main.src.predictions.views",
+        "peekOfCode": "class BasePredictionViewSet(viewsets.ModelViewSet):\n    \"\"\"\n    ViewSet de base pour les pronostics :\n    - Factorise pagination, filtres et gestion des erreurs\n    - Optimisé avec select_related pour 'game' et 'author', et only() pour limiter les champs\n    - Permission par défaut : lecture seule pour tous, écriture authentifiée\n    \"\"\"\n    queryset = Prediction.objects.all().select_related('game', 'author').only(\n        'id', 'game', 'author', 'is_published', 'predicted_at'\n    )",
+        "detail": "wari-main.src.predictions.views",
+        "documentation": {}
+    },
+    {
+        "label": "IsAdminOrEditor",
+        "kind": 6,
+        "importPath": "wari-main.src.predictions.views",
+        "description": "wari-main.src.predictions.views",
+        "peekOfCode": "class IsAdminOrEditor(BasePermission):\n    def has_permission(self, request, view):\n        return request.user.is_authenticated and (\n                    request.user.is_staff or getattr(request.user, 'role', None) == 'editor')\n# 4. Vue pour les administrateurs\nclass PredictionViewSet(BasePredictionViewSet):\n    \"\"\"\n    Gestion des pronostics (réservée aux administrateurs et éditeurs pour CRUD complet).\n    - Pagination et recherche activées\n    - Filtres : slug du jeu, nom d'utilisateur, statut de publication, date de prédiction",
+        "detail": "wari-main.src.predictions.views",
+        "documentation": {}
+    },
+    {
+        "label": "PredictionViewSet",
+        "kind": 6,
+        "importPath": "wari-main.src.predictions.views",
+        "description": "wari-main.src.predictions.views",
+        "peekOfCode": "class PredictionViewSet(BasePredictionViewSet):\n    \"\"\"\n    Gestion des pronostics (réservée aux administrateurs et éditeurs pour CRUD complet).\n    - Pagination et recherche activées\n    - Filtres : slug du jeu, nom d'utilisateur, statut de publication, date de prédiction\n    - Recherche : nom du jeu\n    \"\"\"\n    permission_classes = [IsAdminOrEditor]\n    filterset_fields = ['game__slug', 'author__username', 'is_published', 'predicted_at']\n    search_fields = ['game__name']",
+        "detail": "wari-main.src.predictions.views",
+        "documentation": {}
+    },
+    {
+        "label": "ClientPredictionViewSet",
+        "kind": 6,
+        "importPath": "wari-main.src.predictions.views",
+        "description": "wari-main.src.predictions.views",
+        "peekOfCode": "class ClientPredictionViewSet(viewsets.ReadOnlyModelViewSet):\n    \"\"\"\n    Affichage des pronostics publiés (lecture seule) :\n    - Restreint aux pronostics publiés (is_published=True)\n    - Pagination et recherche activées\n    - Filtres : slug du jeu, date de prédiction\n    - Recherche : nom du jeu\n    \"\"\"\n    queryset = Prediction.objects.filter(is_published=True).select_related('game', 'author').only(\n        'id', 'game', 'author', 'predicted_at'",
+        "detail": "wari-main.src.predictions.views",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "wari-main.src.predictions.views",
+        "description": "wari-main.src.predictions.views",
+        "peekOfCode": "logger = logging.getLogger(__name__)\n# 1. Pagination standardisée\nclass StandardPagination(PageNumberPagination):\n    \"\"\"Pagination standard avec 20 éléments par page, configurable via paramètre URL.\"\"\"\n    page_size = 20\n    page_size_query_param = 'page_size'\n    max_page_size = 100\n# 2. Base ViewSet pour factorisation\nclass BasePredictionViewSet(viewsets.ModelViewSet):\n    \"\"\"",
+        "detail": "wari-main.src.predictions.views",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "wari-main.src.programmes.migrations.0001_initial",
+        "description": "wari-main.src.programmes.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n        ('games', '0001_initial'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Program',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),",
+        "detail": "wari-main.src.programmes.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "ProgramAdmin",
+        "kind": 6,
+        "importPath": "wari-main.src.programmes.admin",
+        "description": "wari-main.src.programmes.admin",
+        "peekOfCode": "class ProgramAdmin(admin.ModelAdmin):\n    \"\"\"Interface pour gérer les programmes.\"\"\"\n    list_display = ['game', 'event_date', 'is_published', 'created_at', 'days_until_event']\n    list_filter = ['is_published', 'event_date', 'game__country']\n    search_fields = ['game__name', 'details']\n    date_hierarchy = 'event_date'\n    list_select_related = ['game', 'game__country']\n    list_per_page = 25\n    actions = ['publish', 'unpublish']\n    def days_until_event(self, obj):",
+        "detail": "wari-main.src.programmes.admin",
+        "documentation": {}
+    },
+    {
+        "label": "ProgrammesConfig",
+        "kind": 6,
+        "importPath": "wari-main.src.programmes.apps",
+        "description": "wari-main.src.programmes.apps",
+        "peekOfCode": "class ProgrammesConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'programmes'",
+        "detail": "wari-main.src.programmes.apps",
+        "documentation": {}
+    },
+    {
+        "label": "Program",
+        "kind": 6,
+        "importPath": "wari-main.src.programmes.models",
+        "description": "wari-main.src.programmes.models",
+        "peekOfCode": "class Program(models.Model):\n    game = models.ForeignKey(\n        Game,\n        on_delete=models.CASCADE,\n        related_name='programs',\n        verbose_name='Jeu',\n        help_text='Le jeu auquel ce programme est associé'\n    )\n    event_date = models.DateTimeField(\n        db_index=True,",
+        "detail": "wari-main.src.programmes.models",
+        "documentation": {}
+    },
+    {
+        "label": "ProgramSerializer",
+        "kind": 6,
+        "importPath": "wari-main.src.programmes.serializers",
+        "description": "wari-main.src.programmes.serializers",
+        "peekOfCode": "class ProgramSerializer(serializers.ModelSerializer):\n    \"\"\"\n    Sérialiseur pour les programmes :\n    - Inclut le slug du jeu via SlugRelatedField\n    - Valide les champs clés (event_date, details)\n    - Champs en lecture seule protégés\n    \"\"\"\n    game = serializers.SlugRelatedField(\n        slug_field='slug',\n        read_only=True,",
+        "detail": "wari-main.src.programmes.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "admin_router",
+        "kind": 5,
+        "importPath": "wari-main.src.programmes.urls",
+        "description": "wari-main.src.programmes.urls",
+        "peekOfCode": "admin_router = DefaultRouter()\nadmin_router.register(r'programs', ProgramViewSet, basename='admin-program')\n# Routeur pour les endpoints client\nclient_router = DefaultRouter()\nclient_router.register(r'programs', ClientProgramViewSet, basename='client-program')\n# URLs différenciées\nurlpatterns = [\n    path('', include(admin_router.urls)),  # /api/admin/programs/\n    path('', include(client_router.urls)),  # /api/client/programs/\n]",
+        "detail": "wari-main.src.programmes.urls",
+        "documentation": {}
+    },
+    {
+        "label": "client_router",
+        "kind": 5,
+        "importPath": "wari-main.src.programmes.urls",
+        "description": "wari-main.src.programmes.urls",
+        "peekOfCode": "client_router = DefaultRouter()\nclient_router.register(r'programs', ClientProgramViewSet, basename='client-program')\n# URLs différenciées\nurlpatterns = [\n    path('', include(admin_router.urls)),  # /api/admin/programs/\n    path('', include(client_router.urls)),  # /api/client/programs/\n]",
+        "detail": "wari-main.src.programmes.urls",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "wari-main.src.programmes.urls",
+        "description": "wari-main.src.programmes.urls",
+        "peekOfCode": "urlpatterns = [\n    path('', include(admin_router.urls)),  # /api/admin/programs/\n    path('', include(client_router.urls)),  # /api/client/programs/\n]",
+        "detail": "wari-main.src.programmes.urls",
+        "documentation": {}
+    },
+    {
+        "label": "StandardPagination",
+        "kind": 6,
+        "importPath": "wari-main.src.programmes.views",
+        "description": "wari-main.src.programmes.views",
+        "peekOfCode": "class StandardPagination(PageNumberPagination):\n    \"\"\"Pagination standard avec 20 éléments par page, configurable via paramètre URL.\"\"\"\n    page_size = 20\n    page_size_query_param = 'page_size'\n    max_page_size = 100\n# 2. Base ViewSet pour factorisation\nclass BaseProgramViewSet(viewsets.ModelViewSet):\n    \"\"\"\n    ViewSet de base pour les programmes :\n    - Factorise pagination, filtres et gestion des erreurs",
+        "detail": "wari-main.src.programmes.views",
+        "documentation": {}
+    },
+    {
+        "label": "BaseProgramViewSet",
+        "kind": 6,
+        "importPath": "wari-main.src.programmes.views",
+        "description": "wari-main.src.programmes.views",
+        "peekOfCode": "class BaseProgramViewSet(viewsets.ModelViewSet):\n    \"\"\"\n    ViewSet de base pour les programmes :\n    - Factorise pagination, filtres et gestion des erreurs\n    - Optimisé avec select_related pour les relations\n    \"\"\"\n    queryset = Program.objects.all().select_related('game', 'game__country')\n    serializer_class = ProgramSerializer\n    pagination_class = StandardPagination\n    filter_backends = [DjangoFilterBackend, SearchFilter]",
+        "detail": "wari-main.src.programmes.views",
+        "documentation": {}
+    },
+    {
+        "label": "ProgramViewSet",
+        "kind": 6,
+        "importPath": "wari-main.src.programmes.views",
+        "description": "wari-main.src.programmes.views",
+        "peekOfCode": "class ProgramViewSet(BaseProgramViewSet):\n    \"\"\"\n    Gestion des programmes (réservée aux administrateurs).\n    - CRUD complet avec pagination et recherche\n    - Filtres sur jeu, pays, statut de publication et date d'événement\n    - Recherche textuelle sur le nom du programme\n    \"\"\"\n    permission_classes = [IsAuthenticatedOrReadOnly]\n    filterset_fields = ['game__slug', 'game__country__slug', 'is_published', 'event_date']\n    search_fields = ['name']  # Recherche sur le nom du programme",
+        "detail": "wari-main.src.programmes.views",
+        "documentation": {}
+    },
+    {
+        "label": "ClientProgramViewSet",
+        "kind": 6,
+        "importPath": "wari-main.src.programmes.views",
+        "description": "wari-main.src.programmes.views",
+        "peekOfCode": "class ClientProgramViewSet(viewsets.ReadOnlyModelViewSet):\n    \"\"\"\n    Affichage des programmes publiés (lecture seule pour les clients).\n    - N'affiche que les programmes publiés (is_published=True)\n    - Pagination et recherche activées\n    - Filtres sur jeu, pays et date d'événement\n    \"\"\"\n    queryset = Program.objects.filter(is_published=True).select_related('game', 'game__country')\n    serializer_class = ProgramSerializer\n    permission_classes = [IsAuthenticatedOrReadOnly]",
+        "detail": "wari-main.src.programmes.views",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "wari-main.src.programmes.views",
+        "description": "wari-main.src.programmes.views",
+        "peekOfCode": "logger = logging.getLogger(__name__)\n# 1. Pagination standardisée\nclass StandardPagination(PageNumberPagination):\n    \"\"\"Pagination standard avec 20 éléments par page, configurable via paramètre URL.\"\"\"\n    page_size = 20\n    page_size_query_param = 'page_size'\n    max_page_size = 100\n# 2. Base ViewSet pour factorisation\nclass BaseProgramViewSet(viewsets.ModelViewSet):\n    \"\"\"",
+        "detail": "wari-main.src.programmes.views",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "wari-main.src.results.migrations.0001_initial",
+        "description": "wari-main.src.results.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n        ('games', '0001_initial'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Result',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),",
+        "detail": "wari-main.src.results.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "wari-main.src.results.migrations.0002_initial",
+        "description": "wari-main.src.results.migrations.0002_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n        ('results', '0001_initial'),\n        migrations.swappable_dependency(settings.AUTH_USER_MODEL),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='result',\n            name='validated_by',",
+        "detail": "wari-main.src.results.migrations.0002_initial",
+        "documentation": {}
+    },
+    {
+        "label": "ResultAdmin",
+        "kind": 6,
+        "importPath": "wari-main.src.results.admin",
+        "description": "wari-main.src.results.admin",
+        "peekOfCode": "class ResultAdmin(admin.ModelAdmin):\n    \"\"\"Interface pour gérer les résultats.\"\"\"\n    list_display = ['game', 'result_date', 'status', 'validated_by', 'created_at', 'short_outcome']\n    list_filter = ['status', 'result_date', 'validated_by', 'game__country']\n    search_fields = ['game__name', 'outcome']\n    date_hierarchy = 'result_date'\n    list_select_related = ['game', 'validated_by']\n    list_per_page = 25\n    actions = ['mark_official', 'mark_pending']\n    def short_outcome(self, obj):",
+        "detail": "wari-main.src.results.admin",
+        "documentation": {}
+    },
+    {
+        "label": "ResultatsConfig",
+        "kind": 6,
+        "importPath": "wari-main.src.results.apps",
+        "description": "wari-main.src.results.apps",
+        "peekOfCode": "class ResultatsConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'results'",
+        "detail": "wari-main.src.results.apps",
+        "documentation": {}
+    },
+    {
+        "label": "Result",
+        "kind": 6,
+        "importPath": "wari-main.src.results.models",
+        "description": "wari-main.src.results.models",
+        "peekOfCode": "class Result(models.Model):\n    STATUS_CHOICES = (\n        ('pending', 'En attente'),\n        ('official', 'Officiel'),\n        ('disputed', 'Contesté'),\n    )\n    game = models.ForeignKey(\n        Game,\n        on_delete=models.CASCADE,\n        related_name='results',",
+        "detail": "wari-main.src.results.models",
+        "documentation": {}
+    },
+    {
+        "label": "ResultSerializer",
+        "kind": 6,
+        "importPath": "wari-main.src.results.serializers",
+        "description": "wari-main.src.results.serializers",
+        "peekOfCode": "class ResultSerializer(serializers.ModelSerializer):\n    \"\"\"Sérialiseur pour les résultats, inclut les relations avec jeu et validateur.\"\"\"\n    game = serializers.SlugRelatedField(slug_field='slug', read_only=True)\n    validated_by = serializers.SlugRelatedField(slug_field='username', read_only=True)\n    class Meta:\n        model = Result\n        fields = ['id', 'game', 'result_date', 'outcome', 'outcome_details', 'status', 'validated_by', 'created_at']\n        read_only_fields = ['created_at', 'validated_by']\n    def validate(self, data):\n        \"\"\"Vérifie la cohérence entre status et validated_by.\"\"\"",
+        "detail": "wari-main.src.results.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "admin_router",
+        "kind": 5,
+        "importPath": "wari-main.src.results.urls",
+        "description": "wari-main.src.results.urls",
+        "peekOfCode": "admin_router = DefaultRouter()\nadmin_router.register(r'results', ResultViewSet, basename='admin-result')\n# Routeur pour les endpoints client (lecture seule)\nclient_router = DefaultRouter()\nclient_router.register(r'results', ClientResultViewSet, basename='client-result')\n# URLs différenciées pour admin et client\nurlpatterns = [\n    path('admin/', include(admin_router.urls)),  # /api/admin/results/\n    path('client/', include(client_router.urls)),  # /api/client/results/\n]",
+        "detail": "wari-main.src.results.urls",
+        "documentation": {}
+    },
+    {
+        "label": "client_router",
+        "kind": 5,
+        "importPath": "wari-main.src.results.urls",
+        "description": "wari-main.src.results.urls",
+        "peekOfCode": "client_router = DefaultRouter()\nclient_router.register(r'results', ClientResultViewSet, basename='client-result')\n# URLs différenciées pour admin et client\nurlpatterns = [\n    path('admin/', include(admin_router.urls)),  # /api/admin/results/\n    path('client/', include(client_router.urls)),  # /api/client/results/\n]",
+        "detail": "wari-main.src.results.urls",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "wari-main.src.results.urls",
+        "description": "wari-main.src.results.urls",
+        "peekOfCode": "urlpatterns = [\n    path('admin/', include(admin_router.urls)),  # /api/admin/results/\n    path('client/', include(client_router.urls)),  # /api/client/results/\n]",
+        "detail": "wari-main.src.results.urls",
+        "documentation": {}
+    },
+    {
+        "label": "StandardPagination",
+        "kind": 6,
+        "importPath": "wari-main.src.results.views",
+        "description": "wari-main.src.results.views",
+        "peekOfCode": "class StandardPagination(PageNumberPagination):\n    \"\"\"Pagination standard avec 20 éléments par page, configurable via paramètre URL.\"\"\"\n    page_size = 20\n    page_size_query_param = 'page_size'\n    max_page_size = 100\n# 2. Base ViewSet pour factorisation\nclass BaseResultViewSet(viewsets.ModelViewSet):\n    \"\"\"\n    ViewSet de base pour les résultats :\n    - Factorise pagination, filtres et gestion des erreurs",
+        "detail": "wari-main.src.results.views",
+        "documentation": {}
+    },
+    {
+        "label": "BaseResultViewSet",
+        "kind": 6,
+        "importPath": "wari-main.src.results.views",
+        "description": "wari-main.src.results.views",
+        "peekOfCode": "class BaseResultViewSet(viewsets.ModelViewSet):\n    \"\"\"\n    ViewSet de base pour les résultats :\n    - Factorise pagination, filtres et gestion des erreurs\n    - Optimisé avec select_related pour 'game' et 'validated_by', et prefetch_related pour 'game__country'\n    \"\"\"\n    queryset = Result.objects.all().select_related('game', 'validated_by').prefetch_related('game__country')\n    serializer_class = ResultSerializer\n    pagination_class = StandardPagination\n    filter_backends = [DjangoFilterBackend, SearchFilter]",
+        "detail": "wari-main.src.results.views",
+        "documentation": {}
+    },
+    {
+        "label": "ResultViewSet",
+        "kind": 6,
+        "importPath": "wari-main.src.results.views",
+        "description": "wari-main.src.results.views",
+        "peekOfCode": "class ResultViewSet(BaseResultViewSet):\n    \"\"\"\n    Gestion des résultats (réservée aux administrateurs).\n    - CRUD complet avec pagination et recherche\n    - Filtres : slug du jeu, slug du pays, statut, date de résultat\n    - Recherche : nom du jeu\n    \"\"\"\n    permission_classes = [IsAdminUser]\n    filterset_fields = ['game__slug', 'game__country__slug', 'status', 'result_date']\n    search_fields = ['game__name']  # Recherche sur le nom du jeu",
+        "detail": "wari-main.src.results.views",
+        "documentation": {}
+    },
+    {
+        "label": "ClientResultViewSet",
+        "kind": 6,
+        "importPath": "wari-main.src.results.views",
+        "description": "wari-main.src.results.views",
+        "peekOfCode": "class ClientResultViewSet(viewsets.ReadOnlyModelViewSet):\n    \"\"\"\n    Affichage des résultats officiels ou contestés (lecture seule) :\n    - Restreint à status='official' ou 'disputed'\n    - Pagination et recherche activées\n    - Filtres : slug du jeu, statut, date de résultat\n    - Recherche : nom du jeu\n    \"\"\"\n    queryset = Result.objects.filter(status__in=['official', 'disputed']).select_related('game', 'validated_by').prefetch_related('game__country')\n    serializer_class = ResultSerializer",
+        "detail": "wari-main.src.results.views",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "wari-main.src.results.views",
+        "description": "wari-main.src.results.views",
+        "peekOfCode": "logger = logging.getLogger(__name__)\n# 1. Pagination standardisée\nclass StandardPagination(PageNumberPagination):\n    \"\"\"Pagination standard avec 20 éléments par page, configurable via paramètre URL.\"\"\"\n    page_size = 20\n    page_size_query_param = 'page_size'\n    max_page_size = 100\n# 2. Base ViewSet pour factorisation\nclass BaseResultViewSet(viewsets.ModelViewSet):\n    \"\"\"",
+        "detail": "wari-main.src.results.views",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "wari-main.src.users.migrations.0001_initial",
+        "description": "wari-main.src.users.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n        ('auth', '0012_alter_user_first_name_max_length'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='CustomUser',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),",
+        "detail": "wari-main.src.users.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "wari-main.src.users.migrations.0002_alter_customuser_role",
+        "description": "wari-main.src.users.migrations.0002_alter_customuser_role",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('users', '0001_initial'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='customuser',\n            name='role',\n            field=models.CharField(choices=[('admin', 'Administrateur'), ('editor', 'Éditeur'), ('viewer', 'Spectateur')], default='admin', help_text='Rôle de l’utilisateur dans le système', max_length=10, verbose_name='Rôle'),\n        ),",
+        "detail": "wari-main.src.users.migrations.0002_alter_customuser_role",
+        "documentation": {}
+    },
+    {
+        "label": "CustomUserAdmin",
+        "kind": 6,
+        "importPath": "wari-main.src.users.admin",
+        "description": "wari-main.src.users.admin",
+        "peekOfCode": "class CustomUserAdmin(UserAdmin):\n    \"\"\"Interface d'administration pour gérer les utilisateurs.\"\"\"\n    # Colonnes affichées dans la liste\n    list_display = ['username', 'email', 'role', 'is_staff', 'is_active', 'date_joined']\n    # Filtres disponibles dans la barre latérale\n    list_filter = ['role', 'is_staff', 'is_active', 'date_joined']\n    # Recherche par champs texte\n    search_fields = ['username', 'email']\n    # Optimisation des requêtes pour éviter les N+1\n    list_select_related = ['groups']",
+        "detail": "wari-main.src.users.admin",
+        "documentation": {}
+    },
+    {
+        "label": "UsersConfig",
+        "kind": 6,
+        "importPath": "wari-main.src.users.apps",
+        "description": "wari-main.src.users.apps",
+        "peekOfCode": "class UsersConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'users'",
+        "detail": "wari-main.src.users.apps",
+        "documentation": {}
+    },
+    {
+        "label": "CustomUser",
+        "kind": 6,
+        "importPath": "wari-main.src.users.models",
+        "description": "wari-main.src.users.models",
+        "peekOfCode": "class CustomUser(AbstractUser):\n    ROLES = (\n        ('admin', 'Administrateur'),\n        ('editor', 'Éditeur'),\n        ('viewer', 'Spectateur'),\n    )\n    role = models.CharField(\n        max_length=10,\n        choices=ROLES,\n        default='admin',",
+        "detail": "wari-main.src.users.models",
+        "documentation": {}
+    },
+    {
+        "label": "CustomUserSerializer",
+        "kind": 6,
+        "importPath": "wari-main.src.users.serializers",
+        "description": "wari-main.src.users.serializers",
+        "peekOfCode": "class CustomUserSerializer(serializers.ModelSerializer):\n    \"\"\"Sérialiseur pour les utilisateurs, utilisé par les admins.\"\"\"\n    class Meta:\n        model = CustomUser\n        fields = ['id', 'username', 'email', 'role', 'is_active', 'date_joined']\n        read_only_fields = ['date_joined']\n    def validate_role(self, value):\n        \"\"\"Valide que le rôle est parmi les choix autorisés.\"\"\"\n        if value not in dict(CustomUser.ROLE_CHOICES).keys():\n            raise serializers.ValidationError(\"Rôle invalide.\")",
+        "detail": "wari-main.src.users.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "admin_router",
+        "kind": 5,
+        "importPath": "wari-main.src.users.urls",
+        "description": "wari-main.src.users.urls",
+        "peekOfCode": "admin_router = DefaultRouter()\nadmin_router.register(r'users', CustomUserViewSet, basename='admin-user')\n# Pas d'endpoint client pour les utilisateurs (données sensibles)\nurlpatterns = [\n    path('', include(admin_router.urls)),  # /api/admin/users/\n]",
+        "detail": "wari-main.src.users.urls",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "wari-main.src.users.urls",
+        "description": "wari-main.src.users.urls",
+        "peekOfCode": "urlpatterns = [\n    path('', include(admin_router.urls)),  # /api/admin/users/\n]",
+        "detail": "wari-main.src.users.urls",
+        "documentation": {}
+    },
+    {
+        "label": "CustomUserViewSet",
+        "kind": 6,
+        "importPath": "wari-main.src.users.views",
+        "description": "wari-main.src.users.views",
+        "peekOfCode": "class CustomUserViewSet(viewsets.ModelViewSet):\n    \"\"\"API pour gérer les utilisateurs (réservée aux admins).\"\"\"\n    queryset = CustomUser.objects.all()\n    serializer_class = CustomUserSerializer\n    permission_classes = [IsAdminUser]  # Seuls les admins peuvent accéder\n    filter_backends = [DjangoFilterBackend]\n    filterset_fields = ['username', 'email', 'role', 'is_active']\n    def perform_destroy(self, instance):\n        \"\"\"Empêche la suppression de l'utilisateur connecté.\"\"\"\n        if instance == self.request.user:",
+        "detail": "wari-main.src.users.views",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "wari-main.src.wari.asgi",
+        "description": "wari-main.src.wari.asgi",
+        "peekOfCode": "application = get_asgi_application()",
+        "detail": "wari-main.src.wari.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_DIR",
+        "kind": 5,
+        "importPath": "wari-main.src.wari.settings",
+        "description": "wari-main.src.wari.settings",
+        "peekOfCode": "BASE_DIR = Path(__file__).resolve().parent.parent\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/5.1/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = 'django-insecure-8)$zgymndn)k$9&i6rqracqz1)fo37(i0hn7266&p7dar((u%l'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [",
+        "detail": "wari-main.src.wari.settings",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "wari-main.src.wari.settings",
+        "description": "wari-main.src.wari.settings",
+        "peekOfCode": "SECRET_KEY = 'django-insecure-8)$zgymndn)k$9&i6rqracqz1)fo37(i0hn7266&p7dar((u%l'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'corsheaders',  # Ajout de django-cors-headers\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',",
+        "detail": "wari-main.src.wari.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEBUG",
+        "kind": 5,
+        "importPath": "wari-main.src.wari.settings",
+        "description": "wari-main.src.wari.settings",
+        "peekOfCode": "DEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'corsheaders',  # Ajout de django-cors-headers\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',",
+        "detail": "wari-main.src.wari.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ALLOWED_HOSTS",
+        "kind": 5,
+        "importPath": "wari-main.src.wari.settings",
+        "description": "wari-main.src.wari.settings",
+        "peekOfCode": "ALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'corsheaders',  # Ajout de django-cors-headers\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',",
+        "detail": "wari-main.src.wari.settings",
+        "documentation": {}
+    },
+    {
+        "label": "INSTALLED_APPS",
+        "kind": 5,
+        "importPath": "wari-main.src.wari.settings",
+        "description": "wari-main.src.wari.settings",
+        "peekOfCode": "INSTALLED_APPS = [\n    'corsheaders',  # Ajout de django-cors-headers\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'rest_framework',\n    'django_filters',",
+        "detail": "wari-main.src.wari.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MIDDLEWARE",
+        "kind": 5,
+        "importPath": "wari-main.src.wari.settings",
+        "description": "wari-main.src.wari.settings",
+        "peekOfCode": "MIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'corsheaders.middleware.CorsMiddleware',  # Ajout du middleware CORS\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',\n]",
+        "detail": "wari-main.src.wari.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT_URLCONF",
+        "kind": 5,
+        "importPath": "wari-main.src.wari.settings",
+        "description": "wari-main.src.wari.settings",
+        "peekOfCode": "ROOT_URLCONF = 'wari.urls'\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',",
+        "detail": "wari-main.src.wari.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TEMPLATES",
+        "kind": 5,
+        "importPath": "wari-main.src.wari.settings",
+        "description": "wari-main.src.wari.settings",
+        "peekOfCode": "TEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',\n                'django.contrib.auth.context_processors.auth',",
+        "detail": "wari-main.src.wari.settings",
+        "documentation": {}
+    },
+    {
+        "label": "WSGI_APPLICATION",
+        "kind": 5,
+        "importPath": "wari-main.src.wari.settings",
+        "description": "wari-main.src.wari.settings",
+        "peekOfCode": "WSGI_APPLICATION = 'wari.wsgi.application'\n# Database\n# https://docs.djangoproject.com/en/5.1/ref/settings/#databases\nSECRET_KEY = config('SECRET_KEY')\nDATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.postgresql',\n        'NAME': 'wari_database',\n        'USER': 'postgres',\n        'PASSWORD': '1234',",
+        "detail": "wari-main.src.wari.settings",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "wari-main.src.wari.settings",
+        "description": "wari-main.src.wari.settings",
+        "peekOfCode": "SECRET_KEY = config('SECRET_KEY')\nDATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.postgresql',\n        'NAME': 'wari_database',\n        'USER': 'postgres',\n        'PASSWORD': '1234',\n        'HOST': 'localhost',\n        'PORT': '5432',\n    }",
+        "detail": "wari-main.src.wari.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASES",
+        "kind": 5,
+        "importPath": "wari-main.src.wari.settings",
+        "description": "wari-main.src.wari.settings",
+        "peekOfCode": "DATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.postgresql',\n        'NAME': 'wari_database',\n        'USER': 'postgres',\n        'PASSWORD': '1234',\n        'HOST': 'localhost',\n        'PORT': '5432',\n    }\n}",
+        "detail": "wari-main.src.wari.settings",
+        "documentation": {}
+    },
+    {
+        "label": "REST_FRAMEWORK",
+        "kind": 5,
+        "importPath": "wari-main.src.wari.settings",
+        "description": "wari-main.src.wari.settings",
+        "peekOfCode": "REST_FRAMEWORK = {\n    'DEFAULT_FILTER_BACKENDS': ['django_filters.rest_framework.DjangoFilterBackend'],\n    'DEFAULT_PAGINATION_CLASS': 'rest_framework.pagination.PageNumberPagination',\n    'PAGE_SIZE': 10,\n    'DEFAULT_SCHEMA_CLASS': 'drf_spectacular.openapi.AutoSchema',\n    'DEFAULT_AUTHENTICATION_CLASSES': [\n        'rest_framework_simplejwt.authentication.JWTAuthentication',\n        'rest_framework.authentication.SessionAuthentication',  # Pour l'admin Django\n    ],\n    'DEFAULT_PERMISSION_CLASSES': [",
+        "detail": "wari-main.src.wari.settings",
+        "documentation": {}
+    },
+    {
+        "label": "SIMPLE_JWT",
+        "kind": 5,
+        "importPath": "wari-main.src.wari.settings",
+        "description": "wari-main.src.wari.settings",
+        "peekOfCode": "SIMPLE_JWT = {\n    'ACCESS_TOKEN_LIFETIME': timedelta(minutes=60),\n    'REFRESH_TOKEN_LIFETIME': timedelta(days=1),\n    'ROTATE_REFRESH_TOKENS': False,\n    'BLACKLIST_AFTER_ROTATION': False,\n    'UPDATE_LAST_LOGIN': False,\n}\nAUTH_USER_MODEL = 'users.CustomUser'\nCORS_ALLOWED_ORIGINS = [\"http://localhost:3000\"]\n# Password validation",
+        "detail": "wari-main.src.wari.settings",
+        "documentation": {}
+    },
+    {
+        "label": "AUTH_USER_MODEL",
+        "kind": 5,
+        "importPath": "wari-main.src.wari.settings",
+        "description": "wari-main.src.wari.settings",
+        "peekOfCode": "AUTH_USER_MODEL = 'users.CustomUser'\nCORS_ALLOWED_ORIGINS = [\"http://localhost:3000\"]\n# Password validation\n# https://docs.djangoproject.com/en/5.1/ref/settings/#auth-password-validators\nAUTH_PASSWORD_VALIDATORS = [\n    {\n        'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.MinimumLengthValidator',",
+        "detail": "wari-main.src.wari.settings",
+        "documentation": {}
+    },
+    {
+        "label": "CORS_ALLOWED_ORIGINS",
+        "kind": 5,
+        "importPath": "wari-main.src.wari.settings",
+        "description": "wari-main.src.wari.settings",
+        "peekOfCode": "CORS_ALLOWED_ORIGINS = [\"http://localhost:3000\"]\n# Password validation\n# https://docs.djangoproject.com/en/5.1/ref/settings/#auth-password-validators\nAUTH_PASSWORD_VALIDATORS = [\n    {\n        'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.MinimumLengthValidator',\n    },",
+        "detail": "wari-main.src.wari.settings",
+        "documentation": {}
+    },
+    {
+        "label": "AUTH_PASSWORD_VALIDATORS",
+        "kind": 5,
+        "importPath": "wari-main.src.wari.settings",
+        "description": "wari-main.src.wari.settings",
+        "peekOfCode": "AUTH_PASSWORD_VALIDATORS = [\n    {\n        'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.MinimumLengthValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.CommonPasswordValidator',\n    },",
+        "detail": "wari-main.src.wari.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LANGUAGE_CODE",
+        "kind": 5,
+        "importPath": "wari-main.src.wari.settings",
+        "description": "wari-main.src.wari.settings",
+        "peekOfCode": "LANGUAGE_CODE = 'en-us'\nTIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.1/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.1/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "wari-main.src.wari.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TIME_ZONE",
+        "kind": 5,
+        "importPath": "wari-main.src.wari.settings",
+        "description": "wari-main.src.wari.settings",
+        "peekOfCode": "TIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.1/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.1/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nAUTH_USER_MODEL = 'users.CustomUser'",
+        "detail": "wari-main.src.wari.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_I18N",
+        "kind": 5,
+        "importPath": "wari-main.src.wari.settings",
+        "description": "wari-main.src.wari.settings",
+        "peekOfCode": "USE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.1/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.1/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nAUTH_USER_MODEL = 'users.CustomUser'\n# Configuration CORS",
+        "detail": "wari-main.src.wari.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_TZ",
+        "kind": 5,
+        "importPath": "wari-main.src.wari.settings",
+        "description": "wari-main.src.wari.settings",
+        "peekOfCode": "USE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.1/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.1/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nAUTH_USER_MODEL = 'users.CustomUser'\n# Configuration CORS\nCORS_ALLOW_ALL_ORIGINS = True  # Autoriser toutes les origines (à désactiver en prod)",
+        "detail": "wari-main.src.wari.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_URL",
+        "kind": 5,
+        "importPath": "wari-main.src.wari.settings",
+        "description": "wari-main.src.wari.settings",
+        "peekOfCode": "STATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.1/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nAUTH_USER_MODEL = 'users.CustomUser'\n# Configuration CORS\nCORS_ALLOW_ALL_ORIGINS = True  # Autoriser toutes les origines (à désactiver en prod)\n# Ou, si tu veux autoriser seulement certains domaines :\nCORS_ALLOWED_ORIGINS = [\n    \"http://localhost:3000\",  # React en local",
+        "detail": "wari-main.src.wari.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_AUTO_FIELD",
+        "kind": 5,
+        "importPath": "wari-main.src.wari.settings",
+        "description": "wari-main.src.wari.settings",
+        "peekOfCode": "DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nAUTH_USER_MODEL = 'users.CustomUser'\n# Configuration CORS\nCORS_ALLOW_ALL_ORIGINS = True  # Autoriser toutes les origines (à désactiver en prod)\n# Ou, si tu veux autoriser seulement certains domaines :\nCORS_ALLOWED_ORIGINS = [\n    \"http://localhost:3000\",  # React en local\n    \"http://127.0.0.1:3000\",\n]",
+        "detail": "wari-main.src.wari.settings",
+        "documentation": {}
+    },
+    {
+        "label": "AUTH_USER_MODEL",
+        "kind": 5,
+        "importPath": "wari-main.src.wari.settings",
+        "description": "wari-main.src.wari.settings",
+        "peekOfCode": "AUTH_USER_MODEL = 'users.CustomUser'\n# Configuration CORS\nCORS_ALLOW_ALL_ORIGINS = True  # Autoriser toutes les origines (à désactiver en prod)\n# Ou, si tu veux autoriser seulement certains domaines :\nCORS_ALLOWED_ORIGINS = [\n    \"http://localhost:3000\",  # React en local\n    \"http://127.0.0.1:3000\",\n]",
+        "detail": "wari-main.src.wari.settings",
+        "documentation": {}
+    },
+    {
+        "label": "CORS_ALLOW_ALL_ORIGINS",
+        "kind": 5,
+        "importPath": "wari-main.src.wari.settings",
+        "description": "wari-main.src.wari.settings",
+        "peekOfCode": "CORS_ALLOW_ALL_ORIGINS = True  # Autoriser toutes les origines (à désactiver en prod)\n# Ou, si tu veux autoriser seulement certains domaines :\nCORS_ALLOWED_ORIGINS = [\n    \"http://localhost:3000\",  # React en local\n    \"http://127.0.0.1:3000\",\n]",
+        "detail": "wari-main.src.wari.settings",
+        "documentation": {}
+    },
+    {
+        "label": "CORS_ALLOWED_ORIGINS",
+        "kind": 5,
+        "importPath": "wari-main.src.wari.settings",
+        "description": "wari-main.src.wari.settings",
+        "peekOfCode": "CORS_ALLOWED_ORIGINS = [\n    \"http://localhost:3000\",  # React en local\n    \"http://127.0.0.1:3000\",\n]",
+        "detail": "wari-main.src.wari.settings",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "wari-main.src.wari.urls",
+        "description": "wari-main.src.wari.urls",
+        "peekOfCode": "urlpatterns = [\n    path('admin/', admin.site.urls, name='admin'),\n    path('api/admin/', include([\n        path('', include('games.urls')),\n        path('', include('programmes.urls')),\n        path('', include('predictions.urls')),\n        path('', include('results.urls')),  # Changement de 'results' à 'results'\n        path('', include('users.urls')),\n    ])),\n    path('api/token/', TokenObtainPairView.as_view(), name='token_obtain_pair'),",
+        "detail": "wari-main.src.wari.urls",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "wari-main.src.wari.wsgi",
+        "description": "wari-main.src.wari.wsgi",
+        "peekOfCode": "application = get_wsgi_application()",
+        "detail": "wari-main.src.wari.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "wari-main.src.manage",
+        "description": "wari-main.src.manage",
+        "peekOfCode": "def main():\n    \"\"\"Run administrative tasks.\"\"\"\n    os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'wari.settings')\n    try:\n        from django.core.management import execute_from_command_line\n    except ImportError as exc:\n        raise ImportError(\n            \"Couldn't import Django. Are you sure it's installed and \"\n            \"available on your PYTHONPATH environment variable? Did you \"\n            \"forget to activate a virtual environment?\"",
+        "detail": "wari-main.src.manage",
+        "documentation": {}
+    },
+    {
+        "label": "populate_database",
+        "kind": 2,
+        "importPath": "wari-main.src.populate_db",
+        "description": "wari-main.src.populate_db",
+        "peekOfCode": "def populate_database():\n    \"\"\"\n    Script pour peupler la base de données avec des données de test.\n    Crée des utilisateurs, pays, types de jeux, jeux, prédictions, résultats et programmes.\n    \"\"\"\n    try:\n        # -------------------------------------\n        # Étape 1 : Nettoyage de la Base (Optionnel)\n        # -------------------------------------\n        print(\"Nettoyage des données existantes...\")",
+        "detail": "wari-main.src.populate_db",
+        "documentation": {}
+    },
+    {
+        "label": "_Known",
+        "kind": 6,
+        "importPath": "wari-projects.node_modules.flatted.python.flatted",
+        "description": "wari-projects.node_modules.flatted.python.flatted",
+        "peekOfCode": "class _Known:\n    def __init__(self):\n        self.key = []\n        self.value = []\nclass _String:\n    def __init__(self, value):\n        self.value = value\ndef _array_keys(value):\n    keys = []\n    i = 0",
+        "detail": "wari-projects.node_modules.flatted.python.flatted",
+        "documentation": {}
+    },
+    {
+        "label": "_String",
+        "kind": 6,
+        "importPath": "wari-projects.node_modules.flatted.python.flatted",
+        "description": "wari-projects.node_modules.flatted.python.flatted",
+        "peekOfCode": "class _String:\n    def __init__(self, value):\n        self.value = value\ndef _array_keys(value):\n    keys = []\n    i = 0\n    for _ in value:\n        keys.append(i)\n        i += 1\n    return keys",
+        "detail": "wari-projects.node_modules.flatted.python.flatted",
+        "documentation": {}
+    },
+    {
+        "label": "parse",
+        "kind": 2,
+        "importPath": "wari-projects.node_modules.flatted.python.flatted",
+        "description": "wari-projects.node_modules.flatted.python.flatted",
+        "peekOfCode": "def parse(value, *args, **kwargs):\n    json = _json.loads(value, *args, **kwargs)\n    wrapped = []\n    for value in json:\n        wrapped.append(_wrap(value))\n    input = []\n    for value in wrapped:\n        if isinstance(value, _String):\n            input.append(value.value)\n        else:",
+        "detail": "wari-projects.node_modules.flatted.python.flatted",
+        "documentation": {}
+    },
+    {
+        "label": "stringify",
+        "kind": 2,
+        "importPath": "wari-projects.node_modules.flatted.python.flatted",
+        "description": "wari-projects.node_modules.flatted.python.flatted",
+        "peekOfCode": "def stringify(value, *args, **kwargs):\n    known = _Known()\n    input = []\n    output = []\n    i = int(_index(known, input, value))\n    while i < len(input):\n        output.append(_transform(known, input, input[i]))\n        i += 1\n    return _json.dumps(output, *args, **kwargs)",
+        "detail": "wari-projects.node_modules.flatted.python.flatted",
+        "documentation": {}
+    }
+]
